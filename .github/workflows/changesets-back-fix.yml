@@ -55,3 +55,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SHOPIFY_GH_ACCESS_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           # NPM_CONFIG_PROVENANCE: true
+# Example: If we are currently on 2023-07, do not add 2023-07.01
